@@ -374,46 +374,46 @@
 <div class="projectboxs">
   
   <div class="certificatebox">
-    <img src="./image/certificate/softpro certificate.png" alt="">
+    <img src="./image/certificate/softpro certificate.jpg" alt=""  style="background-size: cover;height: 230px;">
   </div>
 
 
   <div class="certificatebox">
-    <img src="./image/certificate/Internshala.png" alt="">
+    <img src="./image/certificate/Internshala.png" alt=""  style="background-size: cover;height: 230px;">
 </div>
   <div class="certificatebox">
-    <img src="./image/certificate/Internshala internship.png" alt="">
+    <img src="./image/certificate/Internshala internship.png" alt=""  style="background-size: cover;height: 230px;">
   </div>
 
 
   <div class="certificatebox">
-    <img src="./image/certificate/Core java.png" alt="">
+    <img src="./image/certificate/Core java.png" alt=""  style="background-size: cover;height: 230px;">
   </div>
 
 
 
   <div class="certificatebox">
-    <img src="./image/certificate/CSS.png" alt="">
+    <img src="./image/certificate/CSS.png" alt=""  style="background-size: cover;height: 230px;">
   </div>
 
   <div class="certificatebox">
-    <img src="./image/certificate/AI.png" alt="">
+    <img src="./image/certificate/AI.png" alt=""  style="background-size: cover;height: 230px;">
   </div>
 
   <div class="certificatebox">
-    <img src="./image/certificate/BT.png" alt="">
+    <img src="./image/certificate/BT.png" alt=""  style="background-size: cover;height: 230px;">
   </div>
 
   <div class="certificatebox">
-    <img src="./image/certificate/maths.png" alt="" style="background-size: cover;height: 235px;">
+    <img src="./image/certificate/maths.png" alt="" style="background-size: cover;height: 230px;">
   </div>
 
   <div class="certificatebox">
-    <img src="./image/certificate/C++.png" alt="">
+    <img src="./image/certificate/C++.png" alt="" style="background-size: cover;height: 230px;">
   </div>
 
   <div class="certificatebox">
-    <img src="./image/certificate/C.png" alt="">
+    <img src="./image/certificate/C.png" alt="" style="background-size: cover;height: 230px;">
   </div>
 
 
@@ -482,6 +482,32 @@
                 </div>
 
 
+
+                <div class="projectbox">
+
+                    <div class="projectimg">
+                        <img src="./image/project/nursery.png" alt="">
+                    </div>
+
+                    <div class="projectoverimg">
+                        <h3 class="project-name">Nursery Plant</h3>
+
+                        <div class="box">
+                            <a href="http://nursery.great-site.net/"   target="_blank">
+                                <div class="box1"><Span style="color: white;">Live Demo</Span></div>
+                            </a>
+                            <a href="https://filemanager.ai/new/#/c/185.27.134.11/if0_34631636/eyJ0IjoiZnRwIiwiYyI6eyJwIjoiS05OOXFVano2cSIsImkiOiJodGRvY3MifX0="  target="_blank">
+                                <div class="box2"><Span style="color: white;">Source Code</Span></div>
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+
                 <div class="projectbox">
 
                     <div class="projectimg">
@@ -529,27 +555,7 @@
                 </div>
 
 
-                <div class="projectbox">
 
-                    <div class="projectimg">
-                        <img src="./image/project/nursery.png" alt="">
-                    </div>
-
-                    <div class="projectoverimg">
-                        <h3 class="project-name">Nursery Plant</h3>
-
-                        <div class="box">
-                            <a href="http://nursery.great-site.net/"   target="_blank">
-                                <div class="box1"><Span style="color: white;">Live Demo</Span></div>
-                            </a>
-                            <a href="https://filemanager.ai/new/#/c/185.27.134.11/if0_34631636/eyJ0IjoiZnRwIiwiYyI6eyJwIjoiS05OOXFVano2cSIsImkiOiJodGRvY3MifX0="  target="_blank">
-                                <div class="box2"><Span style="color: white;">Source Code</Span></div>
-                            </a>
-                        </div>
-
-                    </div>
-
-                </div>
 
 
             </div>
