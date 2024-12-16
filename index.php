@@ -94,13 +94,13 @@
                         <a href="https://github.com/soninishad" target="_blank">
                             <i class="fa-brands fa-github icons "></i>
                         </a>
-                        <a href="https://www.linkedin.com/in/soni-nishad-ab0a32221/"  target="_blank">
+                        <a href="https://www.linkedin.com/in/soni-nishad-ab0a32221/" target="_blank">
                             <i class="fa-brands fa-linkedin-in icons"></i>
                         </a>
-                        <a href="https://twitter.com/soni_nishad11"  target="_blank">
+                        <a href="https://twitter.com/soni_nishad11" target="_blank">
                             <i class="fa-brands fa-twitter icons"></i>
                         </a>
-                        <a href="https://www.instagram.com/_____soni.____/"  target="_blank">
+                        <a href="https://www.instagram.com/_____soni.____/" target="_blank">
                             <i class="fa-brands fa-instagram icons"></i>
                         </a>
                     </div>
@@ -135,15 +135,17 @@
                         </p>
                         <h6><b>Contact :-</b></h6>
                         <!-- +91 8957376152 -->
-                        <a href="tel:8957376152" style="color: #a561f4;">
+                        <!-- 8005089374 -->
+                        <a href="tel:8005089374" style="color: #a561f4;">
                             <i class="fa-solid fa-phone fa-spin">
-                            </i>+91 8957376152</a>
+                            </i>+91 8005089374</a>
                         <br>
                         <!-- soninishad7860@gmail.com -->
                         <a href="mailto:soninishad7860@gmail.com" style="color: #a561f4;">Mail us:
                             nishadsoni104@gamil.com</a>
                         <br><br>
-                        <a href="https://drive.google.com/file/d/1Bi3oCahQbsg2RGe60LWuwleppRwlEl2o/view" target="_blank">
+                        <a href="https://drive.google.com/file/d/1Bi3oCahQbsg2RGe60LWuwleppRwlEl2o/view"
+                            target="_blank">
                             <input type="button" value="Download my cv" class="btn_nav">
                         </a>
 
@@ -363,64 +365,64 @@
         <!-- ------------------------- Skill section end-------------------------------------- -->
 
 
- <!-- ---------------Certificates  start ------------------------ -->
+        <!-- ---------------Certificates  start ------------------------ -->
 
- <div class="certificatecontainer" id="certificates">
+        <div class="certificatecontainer" id="certificates">
 
-<div>
-  <h2 class="heading">Certificates</h2>
-</div>
+            <div>
+                <h2 class="heading">Certificates</h2>
+            </div>
 
-<div class="projectboxs">
-  
-  <div class="certificatebox">
-    <img src="./image/certificate/softpro certificate.jpg" alt=""  style="background-size: cover;height: 230px;">
-  </div>
+            <div class="projectboxs">
 
-
-  <div class="certificatebox">
-    <img src="./image/certificate/Internshala.png" alt=""  style="background-size: cover;height: 230px;">
-</div>
-  <div class="certificatebox">
-    <img src="./image/certificate/Internshala internship.png" alt=""  style="background-size: cover;height: 230px;">
-  </div>
+                <div class="certificatebox">
+                    <img src="./image/certificate/softpro certificate.png" alt="">
+                </div>
 
 
-  <div class="certificatebox">
-    <img src="./image/certificate/Core java.png" alt=""  style="background-size: cover;height: 230px;">
-  </div>
+                <div class="certificatebox">
+                    <img src="./image/certificate/Internshala.png" alt="">
+                </div>
+                <div class="certificatebox">
+                    <img src="./image/certificate/Internshala internship.png" alt="">
+                </div>
 
 
-
-  <div class="certificatebox">
-    <img src="./image/certificate/CSS.png" alt=""  style="background-size: cover;height: 230px;">
-  </div>
-
-  <div class="certificatebox">
-    <img src="./image/certificate/AI.png" alt=""  style="background-size: cover;height: 230px;">
-  </div>
-
-  <div class="certificatebox">
-    <img src="./image/certificate/BT.png" alt=""  style="background-size: cover;height: 230px;">
-  </div>
-
-  <div class="certificatebox">
-    <img src="./image/certificate/maths.png" alt="" style="background-size: cover;height: 230px;">
-  </div>
-
-  <div class="certificatebox">
-    <img src="./image/certificate/C++.png" alt="" style="background-size: cover;height: 230px;">
-  </div>
-
-  <div class="certificatebox">
-    <img src="./image/certificate/C.png" alt="" style="background-size: cover;height: 230px;">
-  </div>
+                <div class="certificatebox">
+                    <img src="./image/certificate/Core java.png" alt="">
+                </div>
 
 
 
-</div>
-</div>
-<!-- ----------Certificates end ----------------- -->
+                <div class="certificatebox">
+                    <img src="./image/certificate/CSS.png" alt="">
+                </div>
+
+                <div class="certificatebox">
+                    <img src="./image/certificate/AI.png" alt="">
+                </div>
+
+                <div class="certificatebox">
+                    <img src="./image/certificate/BT.png" alt="">
+                </div>
+
+                <div class="certificatebox">
+                    <img src="./image/certificate/maths.png" alt="" style="background-size: cover;height: 235px;">
+                </div>
+
+                <div class="certificatebox">
+                    <img src="./image/certificate/C++.png" alt="">
+                </div>
+
+                <div class="certificatebox">
+                    <img src="./image/certificate/C.png" alt="">
+                </div>
+
+
+
+            </div>
+        </div>
+        <!-- ----------Certificates end ----------------- -->
 
 
 
@@ -434,8 +436,10 @@
                 <h2 class="heading">Projects</h2>
             </div>
 
+            <!-- project section start -->
             <div class="projectboxs">
 
+                <!-- project 1 start-->
                 <div class="projectbox">
 
                     <div class="projectimg">
@@ -457,8 +461,10 @@
                     </div>
 
                 </div>
+                <!-- project 1 end-->
 
 
+                <!-- project 2 Start-->
                 <div class="projectbox">
 
                     <div class="projectimg">
@@ -480,32 +486,7 @@
                     </div>
 
                 </div>
-
-
-
-                <div class="projectbox">
-
-                    <div class="projectimg">
-                        <img src="./image/project/nursery.png" alt="">
-                    </div>
-
-                    <div class="projectoverimg">
-                        <h3 class="project-name">Nursery Plant</h3>
-
-                        <div class="box">
-                            <a href="http://nursery.great-site.net/"   target="_blank">
-                                <div class="box1"><Span style="color: white;">Live Demo</Span></div>
-                            </a>
-                            <a href="https://filemanager.ai/new/#/c/185.27.134.11/if0_34631636/eyJ0IjoiZnRwIiwiYyI6eyJwIjoiS05OOXFVano2cSIsImkiOiJodGRvY3MifX0="  target="_blank">
-                                <div class="box2"><Span style="color: white;">Source Code</Span></div>
-                            </a>
-                        </div>
-
-                    </div>
-
-                </div>
-
-
+                <!-- project 1 End-->
 
 
                 <div class="projectbox">
@@ -518,10 +499,10 @@
                         <h3 class="project-name">Coffee Shop</h3>
 
                         <div class="box">
-                            <a href="https://soninishad.github.io/coffee/"  target="_blank">
+                            <a href="https://soninishad.github.io/coffee/" target="_blank">
                                 <div class="box1"><Span style="color: white;">Live Demo</Span></div>
                             </a>
-                            <a href="https://github.com/soninishad/coffee.git"    target="_blank">
+                            <a href="https://github.com/soninishad/coffee.git" target="_blank">
                                 <div class="box2"><Span style="color: white;">Source Code</Span></div>
                             </a>
                         </div>
@@ -555,71 +536,223 @@
                 </div>
 
 
+                <div class="projectbox">
+
+                    <div class="projectimg">
+                        <img src="./image/project/nursery.png" alt="">
+                    </div>
+
+                    <div class="projectoverimg">
+                        <h3 class="project-name">Nursery Plant</h3>
+
+                        <div class="box">
+                            <a href="http://nursery.great-site.net/" target="_blank">
+                                <div class="box1"><Span style="color: white;">Live Demo</Span></div>
+                            </a>
+                            <a href="https://filemanager.ai/new/#/c/185.27.134.11/if0_34631636/eyJ0IjoiZnRwIiwiYyI6eyJwIjoiS05OOXFVano2cSIsImkiOiJodGRvY3MifX0="
+                                target="_blank">
+                                <div class="box2"><Span style="color: white;">Source Code</Span></div>
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="projectbox">
+
+                    <div class="projectimg">
+                        <img src="./image/project/deals.png" alt="">
+                    </div>
+
+                    <div class="projectoverimg">
+                        <h3 class="project-name">Landing Page [ Hosting ]</h3>
+
+                        <div class="box">
+                            <a href="https://deals.genxwhosting.com/" target="_blank">
+                                <div class="box1"><Span style="color: white;">Live Demo</Span></div>
+                            </a>
+                            <a href="#" target="_blank">
+                                <div class="box2"><Span style="color: white;">Source Code</Span></div>
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+
+                <div class="projectbox">
+
+                    <div class="projectimg">
+                        <img src="./image/project/blog.png" alt="">
+                    </div>
+
+                    <div class="projectoverimg">
+                        <h3 class="project-name">Blog Website</h3>
+
+                        <div class="box">
+                            <a href="https://blog.genxwhosting.com/" target="_blank">
+                                <div class="box1"><Span style="color: white;">Live Demo</Span></div>
+                            </a>
+                            <a href="#" target="_blank">
+                                <div class="box2"><Span style="color: white;">Source Code</Span></div>
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+
+                <div class="projectbox">
+
+                    <div class="projectimg">
+                        <img src="./image/project/nivi.png" alt="">
+                    </div>
+
+                    <div class="projectoverimg">
+                        <h3 class="project-name">Hosting Website</h3>
+
+                        <div class="box">
+                            <a href="https://nivi.host/" target="_blank">
+                                <div class="box1"><Span style="color: white;">Live Demo</Span></div>
+                            </a>
+                            <a href="#" target="_blank">
+                                <div class="box2"><Span style="color: white;">Source Code</Span></div>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+
+     
+
+
+                <div class="projectbox">
+
+                    <div class="projectimg">
+                        <img src="./image/project/survey.png" alt="">
+                    </div>
+
+                    <div class="projectoverimg">
+                        <h3 class="project-name">Survey Site</h3>
+
+                        <div class="box">
+                            <a href="https://feedback.genxwhosting.com/" target="_blank">
+                                <div class="box1"><Span style="color: white;">Live Demo</Span></div>
+                            </a>
+                            <a href="#" target="_blank">
+                                <div class="box2"><Span style="color: white;">Source Code</Span></div>
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+
+
+                
+                <div class="projectbox">
+
+                    <div class="projectimg">
+                        <img src="./image/project/meetup.png" alt="">
+                    </div>
+
+                    <div class="projectoverimg">
+                        <h3 class="project-name">Meetup Website</h3>
+
+                        <div class="box">
+                            <a href="https://innovateweb.org/" target="_blank">
+                                <div class="box1"><Span style="color: white;">Live Demo</Span></div>
+                            </a>
+                            <a href="#" target="_blank">
+                                <div class="box2"><Span style="color: white;">Source Code</Span></div>
+                            </a>
+                        </div>
+
+                    </div>
+
+                </div>
 
 
 
             </div>
+            <!-- project section end -->
 
         </div>
         <!-- -------------Project section end -->
 
 
-      <!-- Contact section start  -->
-      <section id="contact">
-      <div class="row-contact">
-        <header>
-          <h2 class="heading">Contact</h2>
-        </header>
-        <div class="container-contact my-5">
+        <!-- Contact section start  -->
+        <section id="contact">
+            <div class="row-contact">
+                <header>
+                    <h2 class="heading">Contact</h2>
+                </header>
+                <div class="container-contact my-5">
 
-          <div class="row">
+                    <div class="row">
 
-            <div class="col-sm-2">
+                        <div class="col-sm-2">
+                        </div>
+
+                        <div class="col-sm-8">
+                            <form>
+                                <div class="row mb-4">
+                                    <div class="col-sm-6">
+                                        <input type="text" placeholder="Enter name" required class="form-control"
+                                            id="username">
+                                    </div>
+                                    <div class="col-sm-6 ">
+                                        <input type="email" placeholder="Enter your Email" id="email" required
+                                            class="form-control contact">
+                                    </div>
+                                </div>
+
+                                <div class="row mb-4">
+                                    <div class="col-sm-12">
+                                        <input type="text" placeholder="Subject" id="subject" required
+                                            class="form-control">
+                                    </div>
+                                </div>
+
+                                <div class="row mb-4">
+                                    <div class="col-sm-12">
+                                        <textarea class="form-control" id="message" required
+                                            placeholder="Message"></textarea>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <input type="submit" value="Send" class="btn text-center" onclick="SendEmail()"
+                                            style="background-color: #bc8cf2;">
+                                    </div>
+                                </div>
+
+                            </form>
+
+                        </div>
+
+                        <div class="col-sm-2">
+
+                        </div>
+
+                    </div>
+                </div>
             </div>
-
-            <div class="col-sm-8">
-              <form>
-                <div class="row mb-4">
-                  <div class="col-sm-6">
-                    <input type="text"  placeholder="Enter name"   required   class="form-control"  id="username">
-                  </div>
-                  <div class="col-sm-6 ">
-                    <input type="email" placeholder="Enter your Email" id="email" required class="form-control contact">
-                  </div>
-                </div>
-
-                <div class="row mb-4">
-                  <div class="col-sm-12">
-                    <input type="text" placeholder="Subject" id="subject" required class="form-control">
-                  </div>
-                </div>
-
-                <div class="row mb-4">
-                  <div class="col-sm-12">
-                    <textarea class="form-control" id="message" required  placeholder="Message"></textarea>
-                  </div>
-                </div>
-
-                <div class="row">
-                  <div class="col-sm-12">
-                    <input type="submit" value="Send" class="btn text-center" onclick="SendEmail()" 
-                      style="background-color: #bc8cf2;">
-                  </div>
-                </div>
-
-              </form>
-
-            </div>
-
-            <div class="col-sm-2">
-
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Contact section end -->
+        </section>
+        <!-- Contact section end -->
 
 
 
@@ -644,26 +777,26 @@
     <script src="https://smtpjs.com/v3/smtp.js"></script>
 
 
-<script>
-  function SendEmail() {
+    <script>
+    function SendEmail() {
 
-    let name = document.getElementById("username").value;
-    let email = document.getElementById("email").value;
-    let subject = document.getElementById("subject").value;
-    let message = document.getElementById("message").value;
-    let body  = "Name: " +  name + "<br/> Email: " +  email + "<br/> Subject: " + subject + "<br/> Message: " + message
+        let name = document.getElementById("username").value;
+        let email = document.getElementById("email").value;
+        let subject = document.getElementById("subject").value;
+        let message = document.getElementById("message").value;
+        let body = "Name: " + name + "<br/> Email: " + email + "<br/> Subject: " + subject + "<br/> Message: " + message
 
-    Email.send({
-      SecureToken: "ec2e4cea-c58d-47a6-98ad-c5910742a28a",
-      To: 'nishadsoni104@gmail.com',
-      From: "nishadsoni104@gmail.com",
-      Subject: "Messeage from [Portfolio] Contact form",
-      Body: body
-    }).then(
-                message =>alert("Submitted Successfully")
-    );
-  }
-</script>
+        Email.send({
+            SecureToken: "ec2e4cea-c58d-47a6-98ad-c5910742a28a",
+            To: 'nishadsoni104@gmail.com',
+            From: "nishadsoni104@gmail.com",
+            Subject: "Messeage from [Portfolio] Contact form",
+            Body: body
+        }).then(
+            message => alert("Submitted Successfully")
+        );
+    }
+    </script>
 
     <script src="js/script.js"></script>
 
